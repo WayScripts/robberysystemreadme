@@ -292,7 +292,7 @@ The `Config.Houses` object consists of:
 - **Houses**: A list of house configurations, each with defined doors, interiors, and rooms containing items.
 
 ### Houses Config
-         - not the same in config in config.lua
+   - not the same in config in config.lua
 
 ```lua
 
